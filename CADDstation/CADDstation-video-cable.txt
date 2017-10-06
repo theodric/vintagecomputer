@@ -1,0 +1,18 @@
+The cable is 3 meters long, with a beige rubberized coating covering a shielding braid enclosing three pairs of signal & GND wires. It terminates on one end in a DB-25 populated with 6 pins, and on the other with three BNC connectors. The cable is labeled at the computer end with a wrap-around sticker printed with "PRIME \ 966-00666 \ ATX 08-89 \ COLOR \ VIDEO." The wires connecting to the D-connector are discrete signal and ground wires, but the wires connecting to the RGB connectors emerge from the cable bundle as about 15cm of core-insulation-braid-outer cover type, color coded in red, green, and blue.
+
+Numbering as as viewed from the rear/solder side of the DB-25, with 1 being the rightmost, topmost pin.
+
+1 - Red signal
+2 - Red GND
+3 - Green signal
+4 - Green GND
+5 - Blue signal
+6 - Blue GND
+
+Ground planes are not shared between colors, and the outer metal portion of the D-shell is not connected to anything.
+
+On my CADDstation, the output of the two-board VME video interface is SOG, IIR 1152x900, but I don't remember the frequency. This reference seems to support my memory:
+https://books.google.nl/books?id=Qu0sHMSJaj0C&pg=PA10-IA6&lpg=PA10-IA6&dq=CADDstation+32&source=bl&ots=duzsOWDREz&sig=j-2M0RNcJBIQGWEGSS41psCGmSU&hl=en&sa=X&redir_esc=y#v=onepage&q=CADDstation%2032&f=false
+
+I've successfully driven a '91 SGI CM2086A3SG (4D/25's RGB display) and an '06 Dell 2007FP with it, for the latter, using female-female couplers to connect the RGB outputs from the original cable into an RGB-HD15 analog VGA cable.
+
