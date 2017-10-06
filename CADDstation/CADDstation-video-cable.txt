@@ -29,5 +29,5 @@ Ground planes are not shared between colors, and the outer metal portion of the 
 On my CADDstation, the output of the two-board VME video interface is SoG, IIRC 1152x900, but I don't remember the frequency. This reference seems to support my memory:
 https://books.google.nl/books?id=Qu0sHMSJaj0C&pg=PA10-IA6&lpg=PA10-IA6&dq=CADDstation+32&source=bl&ots=duzsOWDREz&sig=j-2M0RNcJBIQGWEGSS41psCGmSU&hl=en&sa=X&redir_esc=y#v=onepage&q=CADDstation%2032&f=false
 
-I've successfully driven a '91 SGI CM2086A3SG (4D/25's RGB display) and an '06 Dell 2007FP with it, for the latter, using female-female couplers to connect the RGB outputs from the original cable into an RGB-HD15 analog VGA cable.
+I've successfully driven a '91 SGI CM2086A3SG (4D series RGB display) and an '06 Dell 2007FP with it, for the latter, using female-female couplers to connect the RGB outputs from the original cable into an RGB-HD15 analog VGA cable.
 
