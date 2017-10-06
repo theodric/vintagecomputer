@@ -13,7 +13,7 @@ ATX 08-89
 CA38E0666
   REV.E
 
-The wires in the D-connector are discrete signal and ground wires, white and black respectively, but the wires connecting to the RGB connectors emerge from the cable bundle as ~15cm of thin, flexible-core-> insulation-> braid-> outer-cover type, color coded in red, green, and blue.
+The wires in the D-connector are discrete signal and ground wires, white and black respectively, but the wires connecting to the BNC connectors emerge from the cable bundle as ~15cm of thin, flexible-core-> insulation-> braid-> outer-cover type, color coded in red, green, and blue.
 
 Numbering, as viewed from the rear/solder side of the DB-25, with 1 being the rightmost, topmost pin (as labeled on the original):
 
