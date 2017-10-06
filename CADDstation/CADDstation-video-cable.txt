@@ -1,6 +1,14 @@
-The cable is 3 meters long, with a beige rubberized coating covering a shielding braid enclosing three pairs of signal & GND wires. It terminates on one end in a male DB-25 connector populated with 6 pins, and on the other with three male BNC connectors. The cable is labeled at the computer end with a wrap-around sticker printed with "PRIME \ 966-00666 \ ATX 08-89 \ COLOR \ VIDEO." The wires connecting to the D-connector are discrete signal and ground wires, but the wires connecting to the RGB connectors emerge from the cable bundle as about 15cm of core-insulation-braid-outer cover type, color coded in red, green, and blue.
+The cable is 3 meters long, with a beige rubberized coating covering a shielding braid enclosing three pairs of signal & GND wires. It terminates on one end in a male DB-25 connector populated with 6 crimp-type pins, and on the other with three male BNC connectors. The cable is labeled at the computer end with a wrap-around sticker printed with:
 
-Numbering as as viewed from the rear/solder side of the DB-25, with 1 being the rightmost, topmost pin (as labeled on the original).
+  PRIME
+966-00666
+ATX 08-89
+  COLOR
+  VIDEO
+
+The wires in the D-connector are discrete signal and ground wires, white and black respectively, but the wires connecting to the RGB connectors emerge from the cable bundle as ~15cm of thin, flexible core-insulation-braid-outercover type, color coded in red, green, and blue.
+
+Numbering as viewed from the rear/solder side of the DB-25, with 1 being the rightmost, topmost pin (as labeled on the original):
 
 1 - Red signal
 2 - Red GND
