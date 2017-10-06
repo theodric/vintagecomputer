@@ -13,9 +13,9 @@ ATX 08-89
 CA38E0666
   REV.E
 
-The wires in the D-connector are discrete signal and ground wires, white and black respectively, but the wires connecting to the RGB connectors emerge from the cable bundle as ~15cm of thin, flexible core-insulation-braid-outercover type, color coded in red, green, and blue.
+The wires in the D-connector are discrete signal and ground wires, white and black respectively, but the wires connecting to the RGB connectors emerge from the cable bundle as ~15cm of thin, flexible-core-> insulation-> braid-> outer-cover type, color coded in red, green, and blue.
 
-Numbering as viewed from the rear/solder side of the DB-25, with 1 being the rightmost, topmost pin (as labeled on the original):
+Numbering, as viewed from the rear/solder side of the DB-25, with 1 being the rightmost, topmost pin (as labeled on the original):
 
 1 - Red signal
 2 - Red GND
@@ -30,4 +30,3 @@ On my CADDstation, the output of the two-board VME video interface is SoG, IIRC 
 https://books.google.nl/books?id=Qu0sHMSJaj0C&pg=PA10-IA6&lpg=PA10-IA6&dq=CADDstation+32&source=bl&ots=duzsOWDREz&sig=j-2M0RNcJBIQGWEGSS41psCGmSU&hl=en&sa=X&redir_esc=y#v=onepage&q=CADDstation%2032&f=false
 
 I've successfully driven a '91 SGI CM2086A3SG (4D series RGB display) and an '06 Dell 2007FP with it; for the latter, using female-female couplers to connect the RGB outputs from the original cable into an RGB-HD15 analog VGA cable.
-
