@@ -5,6 +5,13 @@ The cable is 3 meters long, with a beige rubberized coating covering a shielding
 ATX 08-89
   COLOR
   VIDEO
+  
+...and at the monitor end with a similar sticker proclaiming:
+
+  PRIME
+966-00666
+CA38E0666
+  REV.E
 
 The wires in the D-connector are discrete signal and ground wires, white and black respectively, but the wires connecting to the RGB connectors emerge from the cable bundle as ~15cm of thin, flexible core-insulation-braid-outercover type, color coded in red, green, and blue.
 
