@@ -24,7 +24,7 @@ Numbering as viewed from the rear/solder side of the DB-25, with 1 being the rig
 5 - Blue signal
 6 - Blue GND
 
-Ground planes are not shared between colors, and the outer metal portion of the D-shell is not connected to anything.
+Ground planes are not shared between colors, and the outer metal portion of the D-shell is not connected to anything. There are also no connections bridged inside the DB-25.
 
 On my CADDstation, the output of the two-board VME video interface is SOG, IIRC 1152x900, but I don't remember the frequency. This reference seems to support my memory:
 https://books.google.nl/books?id=Qu0sHMSJaj0C&pg=PA10-IA6&lpg=PA10-IA6&dq=CADDstation+32&source=bl&ots=duzsOWDREz&sig=j-2M0RNcJBIQGWEGSS41psCGmSU&hl=en&sa=X&redir_esc=y#v=onepage&q=CADDstation%2032&f=false
